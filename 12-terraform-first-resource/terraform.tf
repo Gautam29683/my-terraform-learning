@@ -1,5 +1,5 @@
 provider "github" {
-   token = "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"  
+   token = "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"  
 }
 
 resource "github_repository" "my-terraform-learning" {

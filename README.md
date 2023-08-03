@@ -34,3 +34,6 @@ terraform validate
 
 # To match and apply all the manual changes to tfstate file
 terraform refresh
+
+# Terraform Console to see the variable, outputs and more
+terraform console
